@@ -29,7 +29,8 @@ img {
 }
 
 .title {
-    height: 10vh;
+    height: 15vh;
+    background-image: url(bfgif.gif);
 }
 
 a {
