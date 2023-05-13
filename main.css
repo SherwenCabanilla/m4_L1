@@ -7,7 +7,17 @@
 
 
 body {
-    background-color: rgb(181, 156, 187);
+    background-image: url(bfgif.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.trans {
+    background-color: rgba(212, 226, 239, 0.441);
+}
+
+h1 {
+    letter-spacing: .1em;
 }
 
 /* Navbar */
@@ -31,6 +41,8 @@ img {
 .title {
     height: 15vh;
     background-image: url(bfgif.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
@@ -69,6 +81,7 @@ iframe {
 
 .music {
     margin: .5em;
+    text-align: center;
 }
 
 /* FOOTER */
